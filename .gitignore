@@ -1,0 +1,7 @@
+# if u give any module here it will be not commited to github
+
+venv
+.env
+
+
+
