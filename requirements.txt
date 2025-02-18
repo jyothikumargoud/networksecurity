@@ -4,5 +4,7 @@ numpy
 pymongo
 certifi
 tensorflow
+matplotlib
+seaboarn
 
 #-e .
